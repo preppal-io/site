@@ -1,0 +1,127 @@
+---
+const today = new Date();
+---
+
+<footer>
+	<div class="container">
+		<div class="footer-content">
+			<div class="footer-logo">
+				<img src="/preppal-logo.png" alt="PrepPal Logo" />
+				<p>PrepPal est votre compagnon pour la préparation aux situations d'urgence, vous aidant à rester prêt pour toute situation.</p>
+			</div>
+			<div class="footer-links">
+				<h4>Liens rapides</h4>
+				<ul>
+					<li><a href="/#features">Fonctionnalités</a></li>
+					<li><a href="/#download">Télécharger</a></li>
+					<li><a href="/blog">Blog</a></li>
+				</ul>
+			</div>
+			<div class="footer-links">
+				<h4>Ressources</h4>
+				<ul>
+					<li><a href="https://github.com/preppal-io/prep-pal/issues" target="_blank">Signaler un problème</a></li>
+					<li><a href="https://github.com/preppal-io/prep-pal" target="_blank">GitHub</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="copyright">
+			<p>&copy; {today.getFullYear()} PrepPal. Tous droits réservés.</p>
+		</div>
+	</div>
+</footer>
+
+<style>
+	footer {
+		background-color: var(--dark-color);
+		color: white;
+		padding: 50px 0 20px;
+	}
+
+	.container {
+		width: 100%;
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 0 20px;
+	}
+
+	.footer-content {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		gap: 40px;
+		margin-bottom: 40px;
+	}
+
+	.footer-logo {
+		flex: 1;
+		min-width: 250px;
+		max-width: 350px;
+	}
+
+	.footer-logo img {
+		height: 40px;
+		margin-bottom: 15px;
+	}
+
+	.footer-logo p {
+		color: #bdc3c7;
+		font-size: 0.9rem;
+		line-height: 1.6;
+	}
+
+	.footer-links {
+		flex: 1;
+		min-width: 150px;
+	}
+
+	.footer-links h4 {
+		font-size: 1.1rem;
+		font-weight: 600;
+		margin-bottom: 20px;
+		color: white;
+	}
+
+	.footer-links ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	.footer-links li {
+		margin-bottom: 10px;
+	}
+
+	.footer-links a {
+		color: #bdc3c7;
+		text-decoration: none;
+		transition: color 0.3s ease;
+	}
+
+	.footer-links a:hover {
+		color: white;
+	}
+
+	.copyright {
+		text-align: center;
+		padding-top: 20px;
+		border-top: 1px solid rgba(255, 255, 255, 0.1);
+	}
+
+	.copyright p {
+		color: #bdc3c7;
+		font-size: 0.875rem;
+		margin: 0;
+	}
+
+	@media (max-width: 768px) {
+		.footer-content {
+			flex-direction: column;
+			gap: 30px;
+		}
+
+		.footer-logo {
+			max-width: 100%;
+		}
+	}
+</style>
