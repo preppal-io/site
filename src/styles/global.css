@@ -67,6 +67,10 @@ main {
 	padding: 0 20px;
 }
 
+footer {
+	margin-top: 50px;
+}
+
 h1,
 h2,
 h3,
@@ -117,7 +121,12 @@ p {
 }
 
 .prose p {
-	margin-bottom: 2em;
+	
+}
+
+.prose h1, .prose h2, .prose h3 {
+	margin-top: 1.25em;
+	margin-bottom: 0.5em;
 }
 
 .prose ul,
