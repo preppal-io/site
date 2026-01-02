@@ -1,8 +1,8 @@
 ---
 title: "PrepPal, un assistant pour se préparer aux urgences"
 description: "Découvrez PrepPal, votre application gratuite et open source pour gérer votre stock d'urgence."
-pubDate: "Feb 01 2025"
-heroImage: "../../assets/2026-01-robot-mountains.jpg"
+pubDate: "Feb 02 2025"
+heroImage: "../../assets/2025-02-robot-mountains.jpg"
 ---
 
 PrepPal est une application conçue pour vous aider à gérer votre stock d'urgence de manière simple et efficace.
