@@ -21,7 +21,7 @@ content of the post
 - Blog posts should take 2 to 10 minutes to read depending on the subject
 - Blog posts should be in one of those categories: guide, how-to, news, general information
 - Use the arguments below to know the date and the general subject
-- Use Unsplash with the access key in the .env folder (UNSPLASH_ACCESS_KEY), if it exists, to download a corresponding image for the hero image. If you don't have access to Unsplash, use the default hero image `2025-02-bienvenue-sur-preppal.md`
+- Use Unsplash with the access key in the .env folder (UNSPLASH_ACCESS_KEY), if it exists, to download a corresponding image for the hero image. If you don't have access to Unsplash, use the default hero image @src/assets/2025-02-robot-mountains.jpg
 - Language is always French
 - Always reference sources used to generate the content in the sources, at the end of the post
 - The file name of the blog post should always be the format: `year-month-title.md`
