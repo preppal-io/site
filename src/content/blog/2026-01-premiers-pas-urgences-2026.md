@@ -2,6 +2,7 @@
 title: "Premiers pas vers la préparation aux urgences en 2026"
 description: "Commencez l'année 2026 du bon pied avec des gestes simples pour protéger votre foyer face aux urgences les plus fréquentes. Guide pratique et ressources pour la Suisse."
 pubDate: "Jan 05 2026"
+heroImage: "../../assets/2026-01-premiers-pas-urgences.jpg"
 ---
 
 Bonne année 2026 ! Alors que nous entamons cette nouvelle année, c'est le moment idéal pour adopter de bonnes habitudes et renforcer la résilience de votre foyer face aux situations d'urgence. Pas besoin de devenir un expert en survie - quelques gestes simples peuvent faire toute la différence.

@@ -2,6 +2,7 @@
 title: "Panne de courant à Berlin : 100'000 personnes sans électricité pendant 5 jours"
 description: "Analyse de la panne de courant majeure à Berlin en janvier 2026, causée par un acte de sabotage. Leçons sur la préparation aux urgences et la résilience urbaine."
 pubDate: "Jan 09 2026"
+heroImage: "../../assets/2026-01-panne-berlin.jpg"
 ---
 
 Du 3 au 7 janvier 2026, environ 100'000 habitants de Berlin ont vécu la plus longue panne de courant de la ville depuis la Seconde Guerre mondiale. Cet incident, causé par un acte de sabotage délibéré, offre des enseignements précieux sur la vulnérabilité de nos infrastructures et l'importance de la préparation individuelle.
